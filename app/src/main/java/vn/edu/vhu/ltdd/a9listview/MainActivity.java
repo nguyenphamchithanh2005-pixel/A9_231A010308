@@ -115,4 +115,4 @@ public class MainActivity extends AppCompatActivity {
         tvThongKe.setText(getString(R.string.thong_ke, danhSach.size(), MonAn.dinhDangGia(tong)));
     }
 }
-/////commit2
+/////commit3
